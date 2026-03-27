@@ -174,7 +174,7 @@
 
 <section id="sobre">
   <h2>Sobre mí</h2>
-  <p>Soy desarrollador web apasionado por crear experiencias modernas y dinámicas.</p>
+  <p>Soy desarrollador web apasionado, con hambre de conocimiento.</p>
 </section>
 
 <section id="proyectos">
